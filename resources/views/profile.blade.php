@@ -52,7 +52,7 @@
                 <div class="competency-card">
                     <i class="fa-solid fa-database"></i>
                     <h4>Basis Data</h4>
-                    <p>MySQL</p>
+                    <p>MY SQL</p>
                 </div>
             </div>
         </div>
